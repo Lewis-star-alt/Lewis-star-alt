@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">👋 ¡Hola, soy Lewis!</h1>
 <h3 align="center">Python Developer | Backend | Telegram Bots | FastAPI</h3>
 
@@ -62,7 +61,6 @@ H[Rust] --> I[Владение и заимствование]
 H --> J[Типажи и дженерики]
 H --> K[Асинхронный Rust]
 ```
-
 ---
 
 ### 📈 GitHub статистика
