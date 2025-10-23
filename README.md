@@ -31,7 +31,6 @@
 
 **Фреймворки:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
