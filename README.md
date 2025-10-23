@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola, soy Lewis!</h1>
-<h3 align="center">Python Developer | Backend | Telegram Bots | FastAPI</h3>
+<h3 align="center">Software Engineer | Backend | System Programming | Embedded | Telegram Bots</h3>
 
 <p align="center">
   <a href="https://t.me/Lewisstaralt">
@@ -23,8 +23,15 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**Направления разработки:**  
+![Backend](https://img.shields.io/badge/Backend-009688?style=flat-square&logo=server&logoColor=white)
+![System](https://img.shields.io/badge/System_Programming-FF6B35?style=flat-square&logo=terminal&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded-8A2BE2?style=flat-square&logo=raspberrypi&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+
 **Фреймворки:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
@@ -36,6 +43,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 ---
 
@@ -55,11 +63,13 @@ A[Python] --> B[Асинхронное программирование]
 A --> C[FastAPI углубленно]
 D[C++] --> E[Шаблоны и метапрограммирование]
 D --> F[Оптимизация памяти]
-D --> G[Многопоточность]
+D --> G[Многопоточность и атомики]
 H[Rust] --> I[Владение и заимствование]
 H --> J[Типажи и дженерики]
 H --> K[Асинхронный Rust]
+H --> L[Unsafe Rust и FFI]
 ```
+
 ---
 
 ### 📈 GitHub статистика
@@ -75,7 +85,8 @@ H --> K[Асинхронный Rust]
 ---
 
 ### 💡 Последние достижения
-- Изучаю системное программирование на Rust
-- Углубляюсь в продвинутые возможности C++ (шаблоны, многопоточность)
-- Развиваю навыки в создании высокопроизводительных бэкенд-приложений
+- Изучаю системное программирование на Rust и C++
+- Разрабатываю высокопроизводительные бэкенд-приложения
+- Осваиваю низкоуровневое программирование
+- Углубляюсь в многопоточность и параллельные вычисления
 ```
