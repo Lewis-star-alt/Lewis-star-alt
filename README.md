@@ -26,7 +26,6 @@
 **Направления разработки:**  
 ![Backend](https://img.shields.io/badge/Backend-009688?style=flat-square&logo=server&logoColor=white)
 ![System](https://img.shields.io/badge/System_Programming-FF6B35?style=flat-square&logo=terminal&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded-8A2BE2?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
 **Фреймворки:**  
