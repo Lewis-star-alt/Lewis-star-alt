@@ -53,6 +53,18 @@
 
 ---
 
+### 🎯 Активные проекты
+
+<!-- Бейджи с прогрессом -->
+**🦀 cipher** - Утилита для шифрования подстановочными шифрами  
+![Progress](https://img.shields.io/badge/Статус-Завершен%20v1.0.0-brightgreen) ![Rust](https://img.shields.io/badge/Rust-100%25-orange)
+
+**🐍 FastAPI User Generator** - Генератор случайных пользователей  
+![Progress](https://img.shields.io/badge/Статус-В%20разработке-yellow) ![Python](https://img.shields.io/badge/Python-85%25-blue)
+
+---
+
+
 ### 📚 Изучаю сейчас
 
 ```mermaid
