@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">👋 ¡Hola, soy Lewis!</h1>
 <h3 align="center">Software Engineer | Backend | System Programming | Embedded | Telegram Bots</h3>
 
