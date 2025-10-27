@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">👋 ¡Hola, soy Lewis!</h1>
 <h3 align="center">Software Engineer | Backend | System Programming | Embedded | Telegram Bots</h3>
 
@@ -45,25 +46,48 @@
 
 ---
 
-### 🚀 Мои проекты
-1. **[Проект на FastAPI](https://github.com/Lewis-star-alt/user-generate)** - генератор случайных пользователей
-2. **[Telegram бот](https://github.com/Lewis-star-alt/Bot)** - Бот и все
-3. **[C++ утилита](https://github.com/Lewis-star-alt/glowing-computing-machine)** - Класс мат. матрицы чисто для тренировки
-4. **[Rust ASCII Art](https://github.com/Lewis-star-alt/rust-ascii)** - Генератор ASCII-арта на Rust
-
----
-
 ### 🎯 Активные проекты
 
-<!-- Бейджи с прогрессом -->
-**🦀 cipher** - Утилита для шифрования подстановочными шифрами  
+**🦀 cipher** - Мощная утилита для шифрования подстановочными шифрами  
 ![Progress](https://img.shields.io/badge/Статус-Завершен%20v1.0.0-brightgreen) ![Rust](https://img.shields.io/badge/Rust-100%25-orange)
 
 **🐍 FastAPI User Generator** - Генератор случайных пользователей  
 ![Progress](https://img.shields.io/badge/Статус-В%20разработке-yellow) ![Python](https://img.shields.io/badge/Python-85%25-blue)
 
+**🤖 Telegram Bot** - Многофункциональный бот  
+![Progress](https://img.shields.io/badge/Статус-Активная%20поддержка-green) ![Python](https://img.shields.io/badge/Python-90%25-blue)
+
 ---
 
+### 🚀 Мои проекты
+1. **[cipher](https://github.com/Lewis-star-alt/cipher)** - Утилита для шифрования на Rust с поддержкой файлов
+2. **[FastAPI User Generator](https://github.com/Lewis-star-alt/user-generate)** - генератор случайных пользователей
+3. **[Telegram бот](https://github.com/Lewis-star-alt/Bot)** - Многофункциональный бот
+4. **[C++ Matrix](https://github.com/Lewis-star-alt/glowing-computing-machine)** - Класс математической матрицы
+5. **[Rust ASCII Art](https://github.com/Lewis-star-alt/rust-ascii)** - Генератор ASCII-арта на Rust
+
+---
+
+### 🔥 Сейчас работаю над
+
+```mermaid
+graph TD
+    A[🦀 Rust Projects] --> B[cipher v1.1];
+    A --> C[Новый CLI проект];
+    D[🐍 Python] --> E[Улучшение FastAPI];
+    D --> F[Новый Telegram бот];
+    G[🧠 Изучение] --> H[CLI разработка];
+    G --> I[Файловые операции];
+    G --> J[Обработка ошибок];
+```
+
+**Текущие цели:**
+- ✅ Завершить cipher v1.0.0
+- 🔄 Добавить тесты в FastAPI проект  
+- 📚 Изучить работу с файлами в Rust
+- 🚀 Начать работу над новым CLI проектом
+
+---
 
 ### 📚 Изучаю сейчас
 
@@ -71,14 +95,29 @@
 graph LR
 A[Python] --> B[Асинхронное программирование]
 A --> C[FastAPI углубленно]
-D[C++] --> E[Шаблоны и метапрограммирование]
-D --> F[Оптимизация памяти]
-D --> G[Многопоточность и атомики]
+D[C++] --> E[Шаблоны и STL]
+D --> F[Управление памятью]
+D --> G[Базовая многопоточность]
 H[Rust] --> I[Владение и заимствование]
-H --> J[Типажи и дженерики]
-H --> K[Асинхронный Rust]
-H --> L[Unsafe Rust и FFI]
+H --> J[Типажи и структуры]
+H --> K[Работа с файлами]
+H --> L[CLI разработка]
 ```
+
+**🦀 Rust технологии:**
+- **Базовые концепции**: Владение, заимствование, времена жизни
+- **Структуры данных**: Структуры, перечисления, коллекции
+- **Работа с файлами**: чтение/запись, буферизация
+- **CLI разработка**: аргументы командной строки, конфигурация
+- **Обработка ошибок**: Result, Option, макрос `?`
+
+---
+
+### 📊 Моя активность
+
+![Rust Projects](https://img.shields.io/badge/Rust_Проекты-3-orange?style=for-the-badge&logo=rust)
+![Python Projects](https://img.shields.io/badge/Python_Проекты-5-blue?style=for-the-badge&logo=python)
+![Commits](https://img.shields.io/badge/Коммиты-200+-brightgreen?style=for-the-badge&logo=git)
 
 ---
 
@@ -94,9 +133,36 @@ H --> L[Unsafe Rust и FFI]
 
 ---
 
-### 💡 Последние достижения
-- Изучаю системное программирование на Rust и C++
-- Разрабатываю высокопроизводительные бэкенд-приложения
-- Осваиваю низкоуровневое программирование
-- Углубляюсь в многопоточность и параллельные вычисления
+### 🎵 Любимые технологии
+
+```mermaid
+pie title Технологии по интересам
+    "Rust" : 35
+    "Python" : 30
+    "C++" : 20
+    "Системное ПО" : 15
 ```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lewis-star-alt&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Lewis-star-alt?tab=followers">
+    <img src="https://img.shields.io/github/followers/Lewis-star-alt?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
+
+<p align="center">
+  <i>🚀 "От идеи к работающему коду — один коммит"</i>
+</p>
+```
+
+Основные изменения:
+- Убрал GitHub трофеи
+- Упростил раздел с изучаемыми технологиями Rust (оставил базовые концепции)
+- Добавил круговую диаграмму с технологиями вместо трофеев
+- Обновил текущие цели на более реалистичные для начинающего Rust разработчика
+- Упростил диаграмму "Сейчас работаю над"
+- Добавил конкретный список Rust технологий которые изучаю
+
+Теперь README выглядит более сбалансированным и подходящим для текущего уровня! 🚀
